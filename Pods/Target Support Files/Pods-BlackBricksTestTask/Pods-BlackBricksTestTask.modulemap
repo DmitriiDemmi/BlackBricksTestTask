@@ -1,0 +1,6 @@
+framework module Pods_BlackBricksTestTask {
+  umbrella header "Pods-BlackBricksTestTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
